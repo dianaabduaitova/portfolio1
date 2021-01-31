@@ -1,0 +1,35 @@
+body {
+    background-image: url('https://www.cmg.org/wp-content/uploads/2018/06/CMG-Blog-Image-Template.003.jpeg '); 
+    background-repeat:no-repeat;
+    -moz-background-size: 100%; 
+    -webkit-background-size: 100%; 
+    -o-background-size: 100%; 
+    background-size: 100%;
+}
+
+.p2 {
+font-size: 30;
+background-color: darkgray;;
+color: black;
+right: ;
+}
+
+.p3 {
+    font-size: 30;
+    background-color: darkgray;;
+    color: black;
+}
+.img-fluid_grad{
+width: 400;
+height: 500;
+
+    padding: 40px;
+    background: #f0f0f0;
+    border: 2px solid #800000;
+    display: inline-block;
+    margin: 0;
+   } 
+.ramka img {
+    border: 2px solid #666;
+   }
+}
